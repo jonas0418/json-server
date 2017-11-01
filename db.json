@@ -1,0 +1,6 @@
+{
+  "category":["categoryA","categoryB"],
+  "categoryDetail":{"Name":"categoryA","Description":"XXXXX"},
+  "editCategory":[],
+  "item":["itemA","itemB"]
+}
